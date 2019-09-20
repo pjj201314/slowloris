@@ -8,4 +8,5 @@
 
 
 ## 用法
-
+bin目录下包含slowloris的Perl，Python，C版本的源码
+src目录下包含slowloris的Java版本源码
