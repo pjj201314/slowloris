@@ -1,5 +1,7 @@
 package com.geektcp.slowloris;
 
+import lombok.extern.slf4j.Slf4j;
+
 /**
  * Created by TangHaiyang on 2019/9/19.
  */

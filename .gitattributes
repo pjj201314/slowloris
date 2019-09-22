@@ -1,0 +1,4 @@
+bin/* linguist-vendored
+*.c linguist-vendored
+*.pl linguist-vendored
+*.py linguist-vendored
